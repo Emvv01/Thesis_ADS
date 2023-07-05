@@ -8,7 +8,8 @@ Before conducting the topic modeling analysis, the data is cleaned. The preproce
 1. unigrams with all word combinations, 
 2. unigrams with nouns only
 3. bigrams with all word combinations
-4. bigrams with nouns only. 
+4. bigrams with nouns only.
+   
 The optimal parameters for each model were calculated and are based on the relevant literature. To evaluate the models, two approaches were employed: the coherence score, which measures the semantic consistency of the topics, and the human interpretation of the model's output.
 The model bigrams with all word combinations outperforms the other models on the two evaluation methods. 
 
