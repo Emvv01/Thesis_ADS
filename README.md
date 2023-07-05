@@ -19,6 +19,7 @@ The code in this project is written in the version Python 3.10.12
 - Unigrams with nouns only: This file contains the code for constructing the topic model using unigrams with only nouns as the feature extraction method.
 - Bigrams with all word combinations: This file contains the code for constructing the topic model using bigrams with all possible word combinations as the feature extraction method.
 - Bigrams with nouns only: This file contains the code for constructing the topic model using bigrams with only nouns as the feature extraction method.
+  
 Each file includes data exploration to gain insights into the dataset. Furthermore, the parameter tuning is performed within each model file to optimize the model's performance.
 
 ## Usage
